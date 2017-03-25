@@ -1,0 +1,6 @@
+ES5 Design Pattern
+    Reference: http://www.dofactory.com/javascript/design-patterns
+    
+
+ES6 Design Pattern
+    Reference: http://loredanacirstea.github.io/es6-design-patterns/
